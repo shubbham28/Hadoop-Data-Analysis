@@ -1,0 +1,67 @@
+27	Sandshrew	Ground		300	50	75	85	20	30	40
+28	Sandslash	Ground		450	75	100	110	45	55	65
+31	Nidoqueen	Poison	Ground	505	90	92	87	75	85	76
+34	Nidoking	Poison	Ground	505	81	102	77	85	75	85
+50	Diglett	Ground		265	10	55	25	35	45	95
+51	Dugtrio	Ground		405	35	80	50	50	70	120
+74	Geodude	Rock	Ground	300	40	80	100	30	30	20
+75	Graveler	Rock	Ground	390	55	95	115	45	45	35
+76	Golem	Rock	Ground	495	80	120	130	55	65	45
+95	Onix	Rock	Ground	385	35	45	160	30	45	70
+104	Cubone	Ground		320	50	50	95	40	50	35
+105	Marowak	Ground		425	60	80	110	50	80	45
+111	Rhyhorn	Ground	Rock	345	80	85	95	30	30	25
+112	Rhydon	Ground	Rock	485	105	130	120	45	45	40
+194	Wooper	Water	Ground	210	55	45	45	25	25	15
+195	Quagsire	Water	Ground	430	95	85	85	65	65	35
+207	Gligar	Ground	Flying	430	65	75	105	35	65	85
+208	Steelix	Steel	Ground	510	75	85	200	55	65	30
+208	SteelixMega Steelix	Steel	Ground	610	75	125	230	55	95	30
+220	Swinub	Ice	Ground	250	50	50	40	30	30	50
+221	Piloswine	Ice	Ground	450	100	100	80	60	60	50
+231	Phanpy	Ground		330	90	60	60	40	40	40
+232	Donphan	Ground		500	90	120	120	60	60	50
+246	Larvitar	Rock	Ground	300	50	64	50	45	50	41
+247	Pupitar	Rock	Ground	410	70	84	70	65	70	51
+259	Marshtomp	Water	Ground	405	70	85	70	60	70	50
+260	Swampert	Water	Ground	535	100	110	90	85	90	60
+260	SwampertMega Swampert	Water	Ground	635	100	150	110	95	110	70
+290	Nincada	Bug	Ground	266	31	45	90	30	30	40
+322	Numel	Fire	Ground	305	60	60	40	65	45	35
+323	Camerupt	Fire	Ground	460	70	100	70	105	75	40
+323	CameruptMega Camerupt	Fire	Ground	560	70	120	100	145	105	20
+328	Trapinch	Ground		290	45	100	45	45	45	10
+329	Vibrava	Ground	Dragon	340	50	70	50	50	50	70
+330	Flygon	Ground	Dragon	520	80	100	80	80	80	100
+339	Barboach	Water	Ground	288	50	48	43	46	41	60
+340	Whiscash	Water	Ground	468	110	78	73	76	71	60
+343	Baltoy	Ground	Psychic	300	40	40	55	40	70	55
+344	Claydol	Ground	Psychic	500	60	70	105	70	120	75
+383	Groudon	Ground		670	100	150	140	100	90	90
+383	GroudonPrimal Groudon	Ground	Fire	770	100	180	160	150	90	90
+389	Torterra	Grass	Ground	525	95	109	105	75	85	56
+413	WormadamSandy Cloak	Bug	Ground	424	60	79	105	59	85	36
+423	Gastrodon	Water	Ground	475	111	83	68	92	82	39
+443	Gible	Dragon	Ground	300	58	70	45	40	45	42
+444	Gabite	Dragon	Ground	410	68	90	65	50	55	82
+445	Garchomp	Dragon	Ground	600	108	130	95	80	85	102
+445	GarchompMega Garchomp	Dragon	Ground	700	108	170	115	120	95	92
+449	Hippopotas	Ground		330	68	72	78	38	42	32
+450	Hippowdon	Ground		525	108	112	118	68	72	47
+464	Rhyperior	Ground	Rock	535	115	140	130	55	55	40
+472	Gliscor	Ground	Flying	510	75	95	125	45	75	95
+473	Mamoswine	Ice	Ground	530	110	130	80	70	60	80
+529	Drilbur	Ground		328	60	85	40	30	45	68
+530	Excadrill	Ground	Steel	508	110	135	60	50	65	88
+536	Palpitoad	Water	Ground	384	75	65	55	65	55	69
+537	Seismitoad	Water	Ground	509	105	95	75	85	75	74
+551	Sandile	Ground	Dark	292	50	72	35	35	35	65
+552	Krokorok	Ground	Dark	351	60	82	45	45	45	74
+553	Krookodile	Ground	Dark	519	95	117	80	65	70	92
+618	Stunfisk	Ground	Electric	471	109	66	84	81	99	32
+622	Golett	Ground	Ghost	303	59	74	50	35	50	35
+623	Golurk	Ground	Ghost	483	89	124	80	55	80	55
+645	LandorusIncarnate Forme	Ground	Flying	600	89	125	90	115	80	101
+645	LandorusTherian Forme	Ground	Flying	600	89	145	90	105	80	91
+660	Diggersby	Normal	Ground	423	85	56	77	50	77	78
+718	Zygarde50% Forme	Dragon	Ground	600	108	100	121	81	95	95

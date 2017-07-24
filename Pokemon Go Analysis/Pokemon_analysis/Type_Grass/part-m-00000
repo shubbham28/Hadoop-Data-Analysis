@@ -1,0 +1,95 @@
+1	Bulbasaur	Grass	Poison	318	45	49	49	65	65	45
+2	Ivysaur	Grass	Poison	405	60	62	63	80	80	60
+3	Venusaur	Grass	Poison	525	80	82	83	100	100	80
+3	VenusaurMega Venusaur	Grass	Poison	625	80	100	123	122	120	80
+43	Oddish	Grass	Poison	320	45	50	55	75	65	30
+44	Gloom	Grass	Poison	395	60	65	70	85	75	40
+45	Vileplume	Grass	Poison	490	75	80	85	110	90	50
+46	Paras	Bug	Grass	285	35	70	55	45	55	25
+47	Parasect	Bug	Grass	405	60	95	80	60	80	30
+69	Bellsprout	Grass	Poison	300	50	75	35	70	30	40
+70	Weepinbell	Grass	Poison	390	65	90	50	85	45	55
+71	Victreebel	Grass	Poison	490	80	105	65	100	70	70
+102	Exeggcute	Grass	Psychic	325	60	40	80	60	45	40
+103	Exeggutor	Grass	Psychic	520	95	95	85	125	65	55
+114	Tangela	Grass		435	65	55	115	100	40	60
+152	Chikorita	Grass		318	45	49	65	49	65	45
+153	Bayleef	Grass		405	60	62	80	63	80	60
+154	Meganium	Grass		525	80	82	100	83	100	80
+182	Bellossom	Grass		490	75	80	95	90	100	50
+187	Hoppip	Grass	Flying	250	35	35	40	35	55	50
+188	Skiploom	Grass	Flying	340	55	45	50	45	65	80
+189	Jumpluff	Grass	Flying	460	75	55	70	55	95	110
+191	Sunkern	Grass		180	30	30	30	30	30	30
+192	Sunflora	Grass		425	75	75	55	105	85	30
+251	Celebi	Psychic	Grass	600	100	100	100	100	100	100
+252	Treecko	Grass		310	40	45	35	65	55	70
+253	Grovyle	Grass		405	50	65	45	85	65	95
+254	Sceptile	Grass		530	70	85	65	105	85	120
+254	SceptileMega Sceptile	Grass	Dragon	630	70	110	75	145	85	145
+270	Lotad	Water	Grass	220	40	30	30	40	50	30
+271	Lombre	Water	Grass	340	60	50	50	60	70	50
+272	Ludicolo	Water	Grass	480	80	70	70	90	100	70
+273	Seedot	Grass		220	40	40	50	30	30	30
+274	Nuzleaf	Grass	Dark	340	70	70	40	60	40	60
+275	Shiftry	Grass	Dark	480	90	100	60	90	60	80
+285	Shroomish	Grass		295	60	40	60	40	60	35
+286	Breloom	Grass	Fighting	460	60	130	80	60	60	70
+315	Roselia	Grass	Poison	400	50	60	45	100	80	65
+331	Cacnea	Grass		335	50	85	40	85	40	35
+332	Cacturne	Grass	Dark	475	70	115	60	115	60	55
+345	Lileep	Rock	Grass	355	66	41	77	61	87	23
+346	Cradily	Rock	Grass	495	86	81	97	81	107	43
+357	Tropius	Grass	Flying	460	99	68	83	72	87	51
+387	Turtwig	Grass		318	55	68	64	45	55	31
+388	Grotle	Grass		405	75	89	85	55	65	36
+389	Torterra	Grass	Ground	525	95	109	105	75	85	56
+406	Budew	Grass	Poison	280	40	30	35	50	70	55
+407	Roserade	Grass	Poison	515	60	70	65	125	105	90
+413	WormadamPlant Cloak	Bug	Grass	424	60	59	85	79	105	36
+420	Cherubi	Grass		275	45	35	45	62	53	35
+421	Cherrim	Grass		450	70	60	70	87	78	85
+455	Carnivine	Grass		454	74	100	72	90	72	46
+459	Snover	Grass	Ice	334	60	62	50	62	60	40
+460	Abomasnow	Grass	Ice	494	90	92	75	92	85	60
+460	AbomasnowMega Abomasnow	Grass	Ice	594	90	132	105	132	105	30
+465	Tangrowth	Grass		535	100	100	125	110	50	50
+470	Leafeon	Grass		525	65	110	130	60	65	95
+479	RotomMow Rotom	Electric	Grass	520	50	65	107	105	107	86
+492	ShayminLand Forme	Grass		600	100	100	100	100	100	100
+492	ShayminSky Forme	Grass	Flying	600	100	103	75	120	75	127
+495	Snivy	Grass		308	45	45	55	45	55	63
+496	Servine	Grass		413	60	60	75	60	75	83
+497	Serperior	Grass		528	75	75	95	75	95	113
+511	Pansage	Grass		316	50	53	48	53	48	64
+512	Simisage	Grass		498	75	98	63	98	63	101
+540	Sewaddle	Bug	Grass	310	45	53	70	40	60	42
+541	Swadloon	Bug	Grass	380	55	63	90	50	80	42
+542	Leavanny	Bug	Grass	500	75	103	80	70	80	92
+546	Cottonee	Grass	Fairy	280	40	27	60	37	50	66
+547	Whimsicott	Grass	Fairy	480	60	67	85	77	75	116
+548	Petilil	Grass		280	45	35	50	70	50	30
+549	Lilligant	Grass		480	70	60	75	110	75	90
+556	Maractus	Grass		461	75	86	67	106	67	60
+585	Deerling	Normal	Grass	335	60	60	50	40	50	75
+586	Sawsbuck	Normal	Grass	475	80	100	70	60	70	95
+590	Foongus	Grass	Poison	294	69	55	45	55	55	15
+591	Amoonguss	Grass	Poison	464	114	85	70	85	80	30
+597	Ferroseed	Grass	Steel	305	44	50	91	24	86	10
+598	Ferrothorn	Grass	Steel	489	74	94	131	54	116	20
+640	Virizion	Grass	Fighting	580	91	90	72	90	129	108
+650	Chespin	Grass		313	56	61	65	48	45	38
+651	Quilladin	Grass		405	61	78	95	56	58	57
+52	Chesnaught	Grass	Fighting	530	88	107	122	74	75	64
+672	Skiddo	Grass		350	66	65	48	62	57	52
+673	Gogoat	Grass		531	123	100	62	97	81	68
+708	Phantump	Ghost	Grass	309	43	70	48	50	60	38
+709	Trevenant	Ghost	Grass	474	85	110	76	65	82	56
+710	PumpkabooAverage Size	Ghost	Grass	335	49	66	70	44	55	51
+710	PumpkabooSmall Size	Ghost	Grass	335	44	66	70	44	55	56
+710	PumpkabooLarge Size	Ghost	Grass	335	54	66	70	44	55	46
+710	PumpkabooSuper Size	Ghost	Grass	335	59	66	70	44	55	41
+711	GourgeistAverage Size	Ghost	Grass	494	65	90	122	58	75	84
+711	GourgeistSmall Size	Ghost	Grass	494	55	85	122	58	75	99
+711	GourgeistLarge Size	Ghost	Grass	494	75	95	122	58	75	69
+711	GourgeistSuper Size	Ghost	Grass	494	85	100	122	58	75	54
