@@ -19,8 +19,8 @@ drop table if exists country_cities;
 	lat: DOUBLE>
        
  )ROW FORMAT SERDE 'com.cloudera.hive.serde.JSONSerDe'
- LOCATION '/home/shubbham28/Downloads/city.list2.json';
-load data local inpath '/home/shubbham28/Downloads/city.list1.json' OVERWRITE INTO TABLE cities;
+ LOCATION '/home/shubbham28/Downloads/city.list.json';
+load data local inpath '/home/shubbham28/Downloads/city.list.json' OVERWRITE INTO TABLE cities;
 create table all_cities as select id, name , country from cities order by id;
 create table country_cities_count as select country, COUNT(*) from cities group by country order by country;
 create table id as select id from cities order by id;
