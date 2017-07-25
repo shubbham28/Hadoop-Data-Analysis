@@ -1,4 +1,26 @@
+Aim-
 This is th analysis of city list containing details of around 210,000 cities
 
+Input-
 You can download the json file from link below
 http://bulk.openweathermap.org/sample/city.list.json.gz
+
+Processing-
+1.Download the city.list.json file from the given link
+2.Remove the line breaks from the downloaded json file as it'll not be converted otherwise in hive
+3.In 123.sql, change the path to the jar files and the city.list.json
+4.In test.sh, change the path of 123.sql
+5. In terminal,run the command
+    sh test.sh
+    
+  NOTE:- test.sh and cities.hql must be saved at same location
+  
+  country_wise_cities.db here is just an example 
+  
+  After running the command it'll take around 1 hr for completion
+  
+  Output-
+  Two databases will be created ie country_wise_cities.db and cities_info.db
+  cities_info.db will have 4 folders containing 1 file each
+  country_wise_cities.db will have 246 folders with country code as name containing 1 file each
+  Each folder will have all cities from one country 
